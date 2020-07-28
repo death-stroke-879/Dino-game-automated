@@ -1,5 +1,5 @@
 # Dino-game-automated
-This is a program where it automates the chrome dinosaur.
+This is a program where it automates the chrome dinosaur. Just run the program and then start chrome dino game.
 # Python libs required:
 pyautogui<br/>
 pillow<br/>
